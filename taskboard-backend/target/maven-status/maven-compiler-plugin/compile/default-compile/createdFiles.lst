@@ -1,0 +1,5 @@
+com/camila/board/taskboard/model/Task.class
+com/camila/board/taskboard/controller/TaskController.class
+com/camila/board/taskboard/TaskboardApplication.class
+com/camila/board/taskboard/service/TaskService.class
+com/camila/board/taskboard/repository/TaskRepository.class
