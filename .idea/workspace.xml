@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1116500c-c01d-4413-b26d-f8d230dddc03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/taskboard-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/taskboard-frontend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/taskboard-frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/taskboard-frontend/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/taskboard-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/taskboard-frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/taskboard-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/taskboard-frontend/package.json" afterDir="false" />
@@ -20,7 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/taskboard-frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -50,7 +51,7 @@
     "Node.js.button.jsx.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/Camila/Documents/board",
     "node.js.detected.package.eslint": "true",
@@ -84,7 +85,7 @@
       <updated>1744149733352</updated>
       <workItem from="1744149735275" duration="8358000" />
       <workItem from="1744167810104" duration="21000" />
-      <workItem from="1744914089961" duration="13420000" />
+      <workItem from="1744914089961" duration="13722000" />
     </task>
     <servers />
   </component>
